@@ -1,0 +1,28 @@
+.periodRight{
+    margin-left: 20%;
+    font-size: 15px;
+
+}
+.period{
+    display: flex;
+    margin-top: 2%;
+}
+#date1{
+font-size: 100%;
+}
+#date2{
+font-size: 100%;
+    
+}
+#title1{
+font-size: 180%;
+    
+}
+#title2{
+font-size: 130%;
+    
+}
+#title3{
+font-size: 130%;
+    
+}
